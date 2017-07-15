@@ -9,6 +9,7 @@ var scripts = {
 "plex.tv" : "data/plex.js", 
 "localhost" : "data/plex.js", 
 "127.0.0.1" : "data/plex.js", 
+"play.pocketcasts.com" : "data/pocketcasts.js", 
 "feedwrangler.net" : "data/podwrangler.js", 
 "soundcloud.com" : "data/soundcloud.js", 
 "vk.com" : "data/vk.js", 
